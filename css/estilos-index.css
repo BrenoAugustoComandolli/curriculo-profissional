@@ -1,0 +1,44 @@
+/*nome no cabeçalho*/
+#nome {
+    color: black;
+    text-align: center;
+    font-size: 290%;
+}
+
+/*Informações de endereço*/
+#endereco {
+    margin-top: 6%;
+}
+
+/*Config. padrão de todos os textos comuns*/
+.texto-comum {
+    font-size: 110%;
+    color: black;
+    text-align: left;
+    margin-left: 5%;
+    font-family: 'Times New Roman';
+    cursor: default;
+    margin-right: 5%;
+}
+
+/*Config. dos subtitulos*/
+.subtitulo {
+    margin-left: 5%;
+    margin-top: 4%;
+}
+
+/*Config. padrão das âncoras*/
+.ancora{
+    text-decoration: none;
+}
+
+/*Evento de botar o mouse em cima*/
+.texto-exp:hover{
+    color: #1f1888;
+    cursor: pointer;
+}
+
+/*Config. da observação do rodapé*/
+#texto-obs{
+    font-size: 90%;
+}
